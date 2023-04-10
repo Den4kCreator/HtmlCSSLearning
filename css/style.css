@@ -8,8 +8,8 @@ body {
     font-family: system-ui;
     line-height: 1.5;
     font-size: 18px;
-    background: url("../img/laptop_bg.jpg");
-    box-shadow: 0 0 10px;
+    background: url("../img/bg_professional.jpg") no-repeat;
+    box-shadow: 0 5px 10px #ccc;
 }
 
 .title {
